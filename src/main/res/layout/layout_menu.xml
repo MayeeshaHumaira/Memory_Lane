@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/menu"
+    android:orientation="vertical"
+    >
+    <Button
+        android:id="@+id/menuNoteBtn"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:onClick="menunoteclick"
+        android:layout_width="200dp"
+        android:layout_height="80dp"
+        android:text="Notes"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:background="#f28282"
+        />
+
+
+    <Button
+        android:id="@+id/menuRecordingBtn"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:onClick="menurecordclick"
+        android:layout_width="200dp"
+        android:layout_height="80dp"
+        android:text="recordings"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:background="#f28282"
+        />
+    <Button
+        android:id="@+id/alarmBtn"
+        android:onClick="alarm"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:layout_width="200dp"
+        android:layout_height="80dp"
+        android:text="Set An Alarm"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:background="#f28282"
+        />
+    <Button
+        android:id="@+id/menuGalleryBtn"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:onClick="menugallery"
+        android:layout_width="200dp"
+        android:layout_height="80dp"
+        android:text="View Image From Gallery"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:background="#f28282"
+        />
+    <Button
+        android:id="@+id/menuAboutBtn"
+        android:onClick="about"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:layout_width="200dp"
+        android:layout_height="80dp"
+        android:text="About"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:background="#f28282"
+        />
+
+
+
+</LinearLayout>

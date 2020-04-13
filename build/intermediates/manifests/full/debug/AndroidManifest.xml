@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.habiburrahman.memory_lane"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="27" />
+
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <!-- android:roundIcon="@mipmap/ic_launcher_round" -->
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.habiburrahman.memory_lane.WelcomeActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.habiburrahman.memory_lane.LoginActivity" />
+        <activity android:name="com.example.habiburrahman.memory_lane.ListActivity" />
+        <activity android:name="com.example.habiburrahman.memory_lane.NoteActivity" />
+        <activity android:name="com.example.habiburrahman.memory_lane.RecordingActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.habiburrahman.memory_lane.SignInActivity" />
+        <activity android:name="com.example.habiburrahman.memory_lane.RecordinglistActivity" />
+        <activity android:name="com.example.habiburrahman.memory_lane.DatabaseActivity" />
+        <activity android:name="com.example.habiburrahman.memory_lane.EditNoteActivity" />
+        <activity android:name="com.example.habiburrahman.memory_lane.MenuActivity" />
+        <activity android:name="com.example.habiburrahman.memory_lane.AboutActivity" />
+
+        <receiver android:name="com.example.habiburrahman.memory_lane.MyBroadcastReciver" />
+
+        <activity android:name="com.example.habiburrahman.memory_lane.AlarmActivity" />
+        <activity android:name="com.example.habiburrahman.memory_lane.GalleryActivity" />
+    </application>
+
+</manifest>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#f06498"
+
+    >
+    <TextView
+        android:id="@+id/dateENTV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Date"
+        android:textStyle="italic"
+        android:fontFamily="serif"
+        android:textSize="30sp"
+        />
+
+    <EditText
+        android:id="@+id/EditNoteET"
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:background="#f4b0ca"
+        android:hint="Write something..."
+        android:inputType="textMultiLine"
+        android:textAlignment="center"
+        android:textColor="#000"
+        android:textColorHint="#000"
+        android:textDirection="ltr"
+        android:textSize="20dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/saveNoteENBtn"
+            android:layout_width="200dp"
+            android:layout_height="60dp"
+            android:layout_marginRight="10dp"
+            android:text="Save"
+            android:textStyle="bold"
+            android:background="#f33b82"
+            android:textColor="#fff"
+            />
+        <Button
+            android:id="@+id/deleteENBtn"
+            android:layout_width="200dp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="10dp"
+            android:text="Delete"
+            android:textStyle="bold"
+            android:background="#f33b82"
+            android:textColor="#fff"
+            />
+
+    </LinearLayout>
+
+</LinearLayout>
+
+

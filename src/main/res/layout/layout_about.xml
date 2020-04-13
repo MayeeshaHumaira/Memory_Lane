@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/about"
+    android:orientation="vertical"
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="cursive"
+        android:layout_marginTop="180dp"
+        android:text="Developers:"
+        android:textAlignment="center"
+        android:textColor="#fff"
+        android:textSize="40dp"
+        android:textStyle="bold" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="cursive"
+        android:text="Ashna Nawar Ahmed"
+        android:textAlignment="center"
+        android:textColor="#fff"
+        android:textSize="40dp"
+        android:textStyle="bold" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="cursive"
+        android:text="Mayeesha Humaira"
+        android:textAlignment="center"
+        android:textColor="#fff"
+        android:textSize="40dp"
+        android:textStyle="bold" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="cursive"
+        android:text="AUST CSE 2-2"
+        android:textAlignment="center"
+        android:textColor="#fff"
+        android:textSize="40dp"
+        android:textStyle="bold" />
+
+</LinearLayout>

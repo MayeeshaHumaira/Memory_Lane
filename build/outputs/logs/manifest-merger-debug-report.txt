@@ -1,0 +1,187 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:2:1-49:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Habibur Rahman\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\403d3a3b87affda55e5f7d275f325490\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Habibur Rahman\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d4ffaa6b9b8c70f61d5dfc62c317f3db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Habibur Rahman\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7dd2a07ed022a93764e50ad1082c88d8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Habibur Rahman\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4e4801bab0869163017989485be20a6c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Habibur Rahman\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\3cc1ec2e7871750a41a50e39c52084a3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Habibur Rahman\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\52e3384b9db751f45fd17deb6298e6f2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Habibur Rahman\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\1ccf844575f7806214e258eea1c46dba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Habibur Rahman\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\76dfc1b85d9a99221682aab2e01939aa\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Habibur Rahman\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\f3c4d1614a551e2af9d64bc18f3c4001\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Habibur Rahman\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\137f61ea4c2ea606ccdbcf79c06d1503\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Habibur Rahman\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6d5738a566fbb96f862356633265ba39\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Habibur Rahman\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\989b94a1d1fdd2ecfc36cd5b41dd9fba\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:2:1-49:12
+	package
+		ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:4:5-52
+		INJECTED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml
+		ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:2:1-49:12
+		INJECTED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml
+		ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:2:1-49:12
+		INJECTED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.VIBRATE
+ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:9:22-63
+application
+ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:12:5-47:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Habibur Rahman\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\403d3a3b87affda55e5f7d275f325490\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Habibur Rahman\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\403d3a3b87affda55e5f7d275f325490\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:14:9-38
+	android:allowBackup
+		ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:17:9-40
+activity#com.example.habiburrahman.memory_lane.WelcomeActivity
+ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:18:19-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.example.habiburrahman.memory_lane.LoginActivity
+ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:25:9-51
+	android:name
+		ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:25:19-48
+activity#com.example.habiburrahman.memory_lane.ListActivity
+ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:26:9-50
+	android:name
+		ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:26:19-47
+activity#com.example.habiburrahman.memory_lane.NoteActivity
+ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:27:9-50
+	android:name
+		ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:27:19-47
+activity#com.example.habiburrahman.memory_lane.RecordingActivity
+ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:28:9-35:20
+	android:name
+		ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:28:19-52
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT
+ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:29:13-34:29
+	tools:ignore
+		ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:29:28-58
+action#android.intent.action.VIEW
+ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.DEFAULT
+ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:32:27-73
+category#android.intent.category.BROWSABLE
+ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:33:17-78
+	android:name
+		ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:33:27-75
+activity#com.example.habiburrahman.memory_lane.SignInActivity
+ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:36:9-52
+	android:name
+		ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:36:19-49
+activity#com.example.habiburrahman.memory_lane.RecordinglistActivity
+ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:37:9-59
+	android:name
+		ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:37:19-56
+activity#com.example.habiburrahman.memory_lane.DatabaseActivity
+ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:38:9-54
+	android:name
+		ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:38:19-51
+activity#com.example.habiburrahman.memory_lane.EditNoteActivity
+ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:39:9-54
+	android:name
+		ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:39:19-51
+activity#com.example.habiburrahman.memory_lane.MenuActivity
+ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:40:9-50
+	android:name
+		ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:40:19-47
+activity#com.example.habiburrahman.memory_lane.AboutActivity
+ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:41:9-51
+	android:name
+		ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:41:19-48
+receiver#com.example.habiburrahman.memory_lane.MyBroadcastReciver
+ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:43:9-56
+	android:name
+		ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:43:19-53
+activity#com.example.habiburrahman.memory_lane.AlarmActivity
+ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:45:9-51
+	android:name
+		ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:45:19-48
+activity#com.example.habiburrahman.memory_lane.GalleryActivity
+ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:46:9-62
+	android:name
+		ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml:46:19-50
+uses-sdk
+INJECTED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml
+INJECTED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Habibur Rahman\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\403d3a3b87affda55e5f7d275f325490\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Habibur Rahman\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\403d3a3b87affda55e5f7d275f325490\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Habibur Rahman\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d4ffaa6b9b8c70f61d5dfc62c317f3db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Habibur Rahman\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d4ffaa6b9b8c70f61d5dfc62c317f3db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Habibur Rahman\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7dd2a07ed022a93764e50ad1082c88d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Habibur Rahman\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7dd2a07ed022a93764e50ad1082c88d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Habibur Rahman\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4e4801bab0869163017989485be20a6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Habibur Rahman\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4e4801bab0869163017989485be20a6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Habibur Rahman\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\3cc1ec2e7871750a41a50e39c52084a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Habibur Rahman\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\3cc1ec2e7871750a41a50e39c52084a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Habibur Rahman\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\52e3384b9db751f45fd17deb6298e6f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Habibur Rahman\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\52e3384b9db751f45fd17deb6298e6f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Habibur Rahman\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\1ccf844575f7806214e258eea1c46dba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Habibur Rahman\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\1ccf844575f7806214e258eea1c46dba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Habibur Rahman\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\76dfc1b85d9a99221682aab2e01939aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Habibur Rahman\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\76dfc1b85d9a99221682aab2e01939aa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Habibur Rahman\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\f3c4d1614a551e2af9d64bc18f3c4001\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Habibur Rahman\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\f3c4d1614a551e2af9d64bc18f3c4001\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Habibur Rahman\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\137f61ea4c2ea606ccdbcf79c06d1503\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Habibur Rahman\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\137f61ea4c2ea606ccdbcf79c06d1503\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Habibur Rahman\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6d5738a566fbb96f862356633265ba39\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Habibur Rahman\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6d5738a566fbb96f862356633265ba39\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Habibur Rahman\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\989b94a1d1fdd2ecfc36cd5b41dd9fba\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Habibur Rahman\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\989b94a1d1fdd2ecfc36cd5b41dd9fba\AndroidManifest.xml:20:5-44
+INJECTED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml
+INJECTED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml
+		ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml
+		ADDED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CSE\CSE2_2\SD(CSE2200)\FinalSDproject\Memory_Lane (1)\Memory_Lane\Memory_Lane\app\src\main\AndroidManifest.xml

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#f06498"
+
+    >
+    <TextView
+        android:id="@+id/dateTV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Date"
+        android:textStyle="italic"
+        android:fontFamily="serif"
+        android:textSize="30sp"
+         />
+
+    <EditText
+        android:id="@+id/newNoteET"
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:background="#f4b0ca"
+        android:hint="Write something..."
+        android:inputType="textMultiLine"
+        android:textAlignment="center"
+        android:textColor="#000"
+        android:textColorHint="#000"
+        android:textDirection="ltr"
+        android:textSize="20dp" />
+    <Button
+        android:id="@+id/saveNoteBtn"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="Save"
+        android:textStyle="bold"
+        android:background="#f33b82"
+        android:textColor="#fff"
+        />
+
+
+</LinearLayout>
+
+

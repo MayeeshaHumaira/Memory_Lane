@@ -1,0 +1,4 @@
+#Sun Aug 05 14:23:43 BDT 2018
+base.0=D\:\\CSE\\CSE2_2\\SD(CSE2200)\\SDGallery\\Memory_Lane (1)\\Memory_Lane\\Memory_Lane\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

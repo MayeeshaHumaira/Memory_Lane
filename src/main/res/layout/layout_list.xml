@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/edit"
+    >
+
+    <ListView
+        android:id="@+id/listViewID"
+        android:layout_width="match_parent"
+        android:layout_height="550dp"
+        android:longClickable="true"
+        >
+    </ListView>
+    <Button
+        android:id="@+id/newEntryBtn"
+        android:layout_gravity="left"
+        android:onClick="NewNote"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="New Entry"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:background="#d1e33f8c"
+        />
+
+
+</LinearLayout>

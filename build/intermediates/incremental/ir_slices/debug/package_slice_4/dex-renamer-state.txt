@@ -1,0 +1,4 @@
+#Tue Jul 24 20:11:10 BDT 2018
+base.0=H\:\\2-2\\SD3\\Memory_Lane\\Memory_Lane\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex
